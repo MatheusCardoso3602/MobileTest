@@ -25,8 +25,8 @@
 
   #trex{
 	 position: relative;
-	 right: 41rem;
-	 top: 20.5rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
 	 width: 100%;
 	 height: auto;
@@ -61,7 +61,7 @@
 .back{
 	position: relative;
 	top: 3rem;
-	left: 8rem;
+	left: 4rem;
 
 }
 
@@ -73,7 +73,7 @@
 .subs{
 	position: relative;
 	top: 7rem;
-	left: 15rem;
+	left: 8rem;
 }
 
 .subs img{
