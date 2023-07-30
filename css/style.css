@@ -19,16 +19,16 @@
     left: 13rem;
     top: 6rem;
     z-index: 1;
-    width: 10%;
+    width: 5%;
     height: auto;
   }
 
   #trex{
 	 position: relative;
-	 left: 10rem;
-	 bottom: 10rem;
+	 left: 25rem;
+	 bottom: 50rem;
 	 z-index: 1;
-	 width: 10%;
+	 width: 5%;
 	 height: auto;
 }
 
@@ -61,7 +61,7 @@
 .back{
 	position: relative;
 	top: 3%;
-	right: 2%;
+	right: 5%;
 
 }
 
@@ -73,7 +73,7 @@
 .subs{
 	position: relative;
 	top: 5%;
-	left: 5%;
+	right: 5%;
 }
 
 .subs img{
