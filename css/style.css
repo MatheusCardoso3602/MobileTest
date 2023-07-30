@@ -24,10 +24,45 @@
   }
 
   /* Restante dos estilos para dispositivos móveis com resolução 720x1560 */
+  /* map and subs */
+
+.Index{
+	background-color: #6ca5da;
+	overflow: hidden;
 }
 
-/* Estilos para dispositivos com largura de tela acima de 780 pixels */
-/* Coloque aqui os estilos específicos para telas maiores, caso necessário */
+.back{
+	position: relative;
+	top: 3rem;
+	left: 8rem;
+
+}
+
+.back img{
+	width: 120%;
+	height: 100%;
+}
+
+.subs{
+	position: relative;
+	top: 7rem;
+	left: 15rem;
+}
+
+.subs img{
+	width: 120%;
+	height: 100%;
+}
+
+#audioi{
+	position: relative;
+	left: 81.5rem;
+	bottom: 10rem;
+}
+
+}
+
+
 
 
 
