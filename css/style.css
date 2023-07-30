@@ -23,6 +23,33 @@
     height: auto;
   }
 
+  #trex{
+	 position: relative;
+	 right: 41rem;
+	 top: 20.5rem;
+	 z-index: 1;
+	 width: 100%;
+	 height: auto;
+}
+
+#bary{
+	 position: relative;
+	 right: 43.2rem;
+	 top: 26.7rem;
+	 z-index: 1;
+	 width: 100%;
+	 height: auto;
+}
+
+#raptor{
+	 position: relative;
+	 right: 59rem;
+	 top: 22.5rem;
+	 z-index: 1;
+	 width: 100%;
+	 height: auto;
+} 
+
   /* Restante dos estilos para dispositivos móveis com resolução 720x1560 */
   /* map and subs */
 
