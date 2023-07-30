@@ -33,22 +33,149 @@
 }
 
 #bary{
-	 position: relative;
-	 right: 43.2rem;
-	 top: 26.7rem;
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
 	 z-index: 1;
-	 width: 100%;
+	 width: 5%;
 	 height: auto;
 }
 
 #raptor{
 	 position: relative;
-	 right: 59rem;
-	 top: 22.5rem;
+	 left: 22rem;
+	 bottom: 55rem;
 	 z-index: 1;
-	 width: 100%;
+	 width: 5%;
 	 height: auto;
-} 
+}
+
+#dilo{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#compy{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#herre{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#proce{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#ptera{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#trike{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#para{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#brach{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#galli{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#stego{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#center{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#gate{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#heli{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#dock{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
 
   /* Restante dos estilos para dispositivos móveis com resolução 720x1560 */
   /* map and subs */
