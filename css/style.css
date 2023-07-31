@@ -8,6 +8,7 @@
  .container2{
 		display: flex;
    overflow-x: hidden;
+   overflow-y: hidden;
    flex-direction: column;
    }
 
@@ -215,7 +216,7 @@
 #audioi{
 	position: relative;
 	left: 1rem;
-	bottom: 4rem;
+	bottom: 10rem;
 	z-index: 1;
   width: 25%;
 
