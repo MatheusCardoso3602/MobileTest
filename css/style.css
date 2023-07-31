@@ -2,7 +2,7 @@
 
 
 /* Estilos para dispositivos com largura de tela de até 780 pixels */
-@media screen and (width: 780px) and (height: 1560px) {
+@media screen and (max-width: 780px) and (max-height: 1560px) {
   /* Coloque aqui os estilos que deseja aplicar no Moto G8 e outros dispositivos móveis com resolução 720x1560 */
 
  .container2{
