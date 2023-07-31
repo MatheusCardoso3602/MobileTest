@@ -6,8 +6,7 @@
   /* Coloque aqui os estilos que deseja aplicar no Moto G8 e outros dispositivos móveis com resolução 720x1560 */
 
  .container2{
-		display: flex;
-		overflow-y: hidden;
+		display: flex;
    overflow-x: hidden;
    flex-direction: column;
    }
@@ -218,6 +217,7 @@
 	position: relative;
 	left: 5rem;
 	bottom: 5rem;
+	z-index: 1;
 }
 
 }
