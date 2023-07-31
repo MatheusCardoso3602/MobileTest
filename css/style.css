@@ -215,8 +215,10 @@
 #audioi{
 	position: relative;
 	left: 1rem;
-	top: 1rem;
+	bottom: 4rem;
 	z-index: 1;
+  width: 25%;
+
 }
 
 }
@@ -224,7 +226,8 @@
 @media screen and (max-width: 1560px) and (max-height: 780px) {
   /* Coloque aqui os estilos que deseja aplicar no Moto G8 e outros dispositivos móveis com resolução 720x1560 */
 
- .container2{
+ .container2{
+   display: flex;
 		overflow-y: hidden;
    overflow-x: hidden;
    }
