@@ -216,16 +216,232 @@
 
 #audioi{
 	position: relative;
-	left: 81.5rem;
-	bottom: 10rem;
+	left: 5rem;
+	bottom: 5rem;
 }
 
 }
 
+@media screen and (max-width: 1560px) and (max-height: 780px) {
+  /* Coloque aqui os estilos que deseja aplicar no Moto G8 e outros dispositivos móveis com resolução 720x1560 */
+
+ .container2{
+		display: flex;
+		overflow-y: hidden;
+   overflow-x: hidden;
+   flex-direction: column;
+   }
+
+  
+  /* Icons */
+  .box_2 img {
+    width: 3%;
+    height: 3%;
+  }
+
+  .icon {
+    /* Estilos para o elemento com a classe "icon" no Moto G8 */
+    position: relative;
+    left: 13rem;
+    top: 6rem;
+    z-index: 1;
+    width: 5%;
+    height: auto;
+  }
+
+  #trex{
+	 position: relative;
+	 left: 18.5rem;
+	 bottom: 58.8rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#bary{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#raptor{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#dilo{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#compy{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#herre{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#proce{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#ptera{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#trike{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#para{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#brach{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#galli{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#stego{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#center{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#gate{
+	 position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#heli{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
+
+#dock{
+	position: relative;
+	 left: 22rem;
+	 bottom: 55rem;
+	 z-index: 1;
+	 width: 5%;
+	 height: auto;
+}
 
 
+  /* Restante dos estilos para dispositivos móveis com resolução 720x1560 */
+  /* map and subs */
 
+.Index{
+	background-color: #6ca5da;
+	overflow: hidden;
+}
 
+.back{
+	position: relative;
+	top: 3%;
+	right: 9%;
+
+}
+
+.back img{
+	width: 120%;
+	height: 100%;
+}
+
+.subs{
+	position: relative;
+	top: 5%;
+	right: 12%;
+}
+
+.subs img{
+	width: 120%;
+	height: 100%;
+}
+
+#audioi{
+	position: relative;
+	left: 5rem;
+	bottom: 5rem;
+}
+
+}
+
 
 
 /* desktop 1920px*/
