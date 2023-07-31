@@ -215,8 +215,8 @@
 
 #audioi{
 	position: relative;
-	left: 5rem;
-	bottom: 5rem;
+	left: 1rem;
+	top: 1rem;
 	z-index: 1;
 }
 
