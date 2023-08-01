@@ -235,7 +235,7 @@
 	border-radius: 10px;
 	color: #FFFFFF;
 	width: 20rem;
-	height: 14rem;
+	height: 16rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
@@ -250,13 +250,13 @@
 	border: 5px solid #000000;
 	border-radius: 10px;
 	color: #FFFFFF;
-	width: 45rem;
-	height: 5.5rem;
+	width: 20rem;
+	height: 14rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 3.6rem;
-	left: 17rem;
+	top: 1rem;
+	left: 1rem;
 	text-align: justify;
 
 }
@@ -266,10 +266,16 @@
 	overflow: hidden;
 }
 
-#audio{
+.audio{
 	position: relative;
-	left: 25%;
+	left: 3rem;
 }
+
+.arrow{
+ position: relative;
+ left: 3rem; 
+}
+
 
 .box_1{
 }
