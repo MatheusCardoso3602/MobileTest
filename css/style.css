@@ -477,8 +477,8 @@
 
 .back{
 	position: relative;
-	top: 3%;
-	right: 9%;
+	bottom: 3%;
+	left: 15%;
 }
 
 .back img{
@@ -488,8 +488,8 @@
 
 .subs{
 	position: relative;
-	top: 5%;
-	right: 12%;
+	top: 3%;
+	left: 25%;
 }
 
 .subs img{
@@ -499,8 +499,8 @@
 
 .audioi{
 	position: relative;
-	left: 3rem;
-	bottom: 30rem;
+	left: 1rem;
+	bottom: 1rem;
 	z-index: 1;
 }
 
