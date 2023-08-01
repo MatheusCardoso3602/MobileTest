@@ -15,17 +15,7 @@
   .box_2 img {
     width: 3%;
     height: 3%;
-  }
-
-  #icon {
-    /* Estilos para o elemento com a classe "icon" no Moto G8 */
-    position: relative;
-    left: 6rem;
-    top: 6rem;
-    z-index: 1;
-    width: 5%;
-    height: auto;
-  }
+  }
 
   #trex{
 	 position: relative;
@@ -225,7 +215,7 @@
 .box_0 img{
 	width: 70%;
 	height: 100%;
-	padding-left: 3rem;
+	padding-left: 3.5rem;
 	padding-top: 5rem;	
 }
 
@@ -235,7 +225,7 @@
 	border-radius: 10px;
 	color: #FFFFFF;
 	width: 20rem;
-	height: 16rem;
+	height: 13rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
@@ -244,14 +234,14 @@
 	text-align: justify;
 
 }
-
+
 .box2{
 	background-color: #2244b3;
 	border: 5px solid #000000;
 	border-radius: 10px;
 	color: #FFFFFF;
 	width: 20rem;
-	height: 14rem;
+	height: 11rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
@@ -274,6 +264,9 @@
 .arrow{
  position: relative;
  left: 3rem; 
+ top: 5rem;
+ width: 5%;
+ height: 100%;
 }
 
 
