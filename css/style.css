@@ -6,7 +6,8 @@
   /* Coloque aqui os estilos que deseja aplicar no Moto G8 e outros dispositivos móveis com resolução 720x1560 */
 
  .container2{
-   display: flex;
+   display: flex;
+
    flex-direction: column;
    }
 
@@ -15,7 +16,8 @@
   .box_2 img {
     width: 3%;
     height: 3%;
-  }
+  }
+
 
   #trex{
 	 position: relative;
@@ -37,8 +39,8 @@
 
 #raptor{
 	 position: relative;
-	 left: 22rem;
-	 bottom: 55rem;
+	 left: 8rem;
+	 bottom: 65rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -175,7 +177,8 @@
   /* map and subs */
 
 .Index{
-	background-color: #6ca5da;
+	background-color: #6ca5da;
+
 }
 
 .back{
@@ -234,7 +237,8 @@
 	text-align: justify;
 
 }
-
+
+
 .box2{
 	background-color: #2244b3;
 	border: 5px solid #000000;
