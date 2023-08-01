@@ -217,6 +217,81 @@
 	z-index: 1;
 }
 
+/* Dinosaurs and buildings pages */
+
+.box_0{
+}
+
+.box_0 img{
+	width: 70%;
+	height: 100%;
+	padding-left: 17rem;
+	padding-top: 5rem;	
+}
+
+.box{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 45rem;
+	height: 6.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	bottom: 3.6rem;
+	left: 17rem;
+	text-align: justify;
+
+}
+
+.box2{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 45rem;
+	height: 5.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	bottom: 3.6rem;
+	left: 17rem;
+	text-align: justify;
+
+}
+
+#dino{
+	background-color: #6ca5da;
+	overflow: hidden;
+}
+
+#audio{
+	position: relative;
+	left: 55%;
+}
+
+.box_1{
+}
+
+.box_1 img{
+	width: 95%;
+	height: 100%;
+	padding-top: 5rem;
+	padding-left: 3rem;
+	
+}
+
+#build{
+	background-color: #6ca5da;
+	overflow: hidden;
+}
+
+#audiob{
+	position: relative;
+	left: 14.4%;
+}
+
 }
 
 @media screen and (max-width: 1560px) and (max-height: 780px) {
