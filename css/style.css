@@ -188,6 +188,7 @@
 .Index{
 	background-color: #6ca5da;
 	overflow-x: hidden;
+	overflow-y: hidden;
 }
 
 .back{
@@ -215,7 +216,7 @@
 .audioi{
 	position: relative;
 	left: 5rem;
-	bottom: 10rem;
+	top: 50rem;
 	z-index: 1;
 }
 
