@@ -239,7 +239,7 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 3.6rem;
+	bottom: 0.1rem;
 	left: 2rem;
 	text-align: justify;
 
@@ -268,7 +268,7 @@
 
 #audio{
 	position: relative;
-	left: 55%;
+	left: 25%;
 }
 
 .box_1{
