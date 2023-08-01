@@ -225,7 +225,7 @@
 .box_0 img{
 	width: 70%;
 	height: 100%;
-	padding-left: 8rem;
+	padding-left: 3rem;
 	padding-top: 5rem;	
 }
 
@@ -235,12 +235,12 @@
 	border-radius: 10px;
 	color: #FFFFFF;
 	width: 20rem;
-	height: 8rem;
+	height: 16rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
 	bottom: 3.6rem;
-	left: 6rem;
+	left: 2rem;
 	text-align: justify;
 
 }
