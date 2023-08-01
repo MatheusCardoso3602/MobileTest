@@ -17,7 +17,7 @@
     height: 3%;
   }
 
-  .icon {
+  #icon {
     /* Estilos para o elemento com a classe "icon" no Moto G8 */
     position: relative;
     left: 6rem;
@@ -235,12 +235,12 @@
 	border-radius: 10px;
 	color: #FFFFFF;
 	width: 20rem;
-	height: 16rem;
+	height: 14rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 0.1rem;
-	left: 2rem;
+	top: 1rem;
+	left: 1rem;
 	text-align: justify;
 
 }
