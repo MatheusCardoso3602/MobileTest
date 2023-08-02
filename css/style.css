@@ -45,8 +45,8 @@
 
 #raptor{
 	 position: relative;
-	 right: 15rem;
-	 top: 20rem;
+	 padding-right: 5rem;
+	 padding-bottom: 5rem;
 	 z-index: 1;
 	 width: 3%;
 	 height: auto;
