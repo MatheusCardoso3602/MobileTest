@@ -19,7 +19,7 @@
   }
 
 
-  .trex{
+  #trex{
 	 position: relative;
 	 left: 18.5rem;
 	 bottom: 58.8rem;
@@ -28,19 +28,19 @@
 	 height: auto;
 }
 
-.bary{
+#bary{
 	position: relative;
-	 left: 20em;
-	 bottom: 62rem;
+	 left: 22rem;
+	 bottom: 55rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
 }
 
-.raptor{
+#raptor{
 	 position: relative;
-	 left: 8rem;
-	 bottom: 65rem;
+	 left: 22rem;
+	 bottom: 55rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -794,9 +794,17 @@
 	overflow: hidden;
 }
 
-#audio{
+.audio{
 	position: relative;
-	left: 55%;
+	left: 81.5rem;
+}
+
+.arrow{
+ position: relative;
+ left: 13rem; 
+ top: 6rem;
+ width: 5%;
+ height: 100%;
 }
 
 .box_1{
