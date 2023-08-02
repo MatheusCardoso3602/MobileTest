@@ -53,8 +53,8 @@
 }
 
 #dilo{
-	position: relative;
-	 left: 22rem;
+	position: absolute;
+	 left: 15rem;
 	 bottom: 55rem;
 	 z-index: 1;
 	 width: 5%;
@@ -63,7 +63,7 @@
 
 #compy{
 	 position: relative;
-	 left: 22rem;
+	 left: 15rem;
 	 bottom: 55rem;
 	 z-index: 1;
 	 width: 5%;
@@ -212,7 +212,7 @@
 .audioi{
 	position: relative;
 	left: 3rem;
-	bottom: 33rem;
+	bottom: 35rem;
 	z-index: 1;
 }
 
