@@ -7,7 +7,7 @@
 
  .container2{
    display: flex;
-
+   overflow-x: hidden;
    flex-direction: column;
    }
 
@@ -184,7 +184,7 @@
 
 .Index{
 	background-color: #6ca5da;
-
+  position: relative;
 }
 
 .back{
@@ -212,7 +212,7 @@
 .audioi{
 	position: relative;
 	left: 3rem;
-	bottom: 30rem;
+	bottom: 33rem;
 	z-index: 1;
 }
 
