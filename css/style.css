@@ -42,7 +42,7 @@
 
 #bary{
 	position: relative;
-	 left: 20.4em;
+	 left: 20em;
 	 bottom: 58rem;
 	 z-index: 1;
 	 width: 5%;
@@ -51,7 +51,7 @@
 
 #raptor{
 	 position: relative;
-	 left: 8rem;
+	 left: 8.5rem;
 	 bottom: 59.3rem;
 	 z-index: 1;
 	 width: 5%;
@@ -218,7 +218,7 @@
 .audioi{
 	position: relative;
 	left: 2.7rem;
-	bottom: 62rem;
+	bottom: 61.7rem;
 	z-index: 1;
 }
 
