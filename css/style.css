@@ -51,7 +51,7 @@
 
 #raptor{
 	 position: relative;
-	 left: 14rem;
+	 left: 9rem;
 	 bottom: 58.8rem;
 	 z-index: 1;
 	 width: 5%;
@@ -218,7 +218,7 @@
 .audioi{
 	position: relative;
 	left: 3rem;
-	bottom: 30rem;
+	bottom: 60rem;
 	z-index: 1;
 }
 
