@@ -42,7 +42,7 @@
 
 #bary{
 	position: relative;
-	 left: 20em;
+	 left: 20rem;
 	 bottom: 58rem;
 	 z-index: 1;
 	 width: 5%;
@@ -60,8 +60,8 @@
 
 #dilo{
 	position: relative;
-	 left: 22rem;
-	 bottom: 55rem;
+	 left: 12.5rem;
+	 bottom: 58rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -105,8 +105,8 @@
 
 #trike{
 	position: relative;
-	 left: 22rem;
-	 bottom: 55rem;
+	 left: 13.5rem;
+	 bottom: 70rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
