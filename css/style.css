@@ -173,8 +173,8 @@
 
 #heli{
 	position: relative;
-	 left: 12.3rem;
-	 bottom: 70rem;
+	 left: 13rem;
+	 bottom: 68rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -183,7 +183,7 @@
 #dock{
 	position: relative;
 	 left: 18.5rem;
-	 bottom: 75rem;
+	 bottom: 72rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
