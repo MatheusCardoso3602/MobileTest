@@ -548,7 +548,7 @@
 	width: 70%;
 	height: 100%;
 	padding-left: 2rem;
-	padding-bottom: 6rem;	
+	padding-bottom: 5rem;	
 }
 
 .box{
@@ -561,8 +561,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 25rem;
-	left: 52rem;
+	bottom: 24rem;
+	left: 42rem;
 	text-align: justify;
 
 }
@@ -591,16 +591,17 @@
 
 .audio{
 	position: relative;
-	left: 3rem;
-	bottom: 8rem;
+	left: 15rem;
+	bottom: 12rem;
 }
 
 .arrow{
  position: relative;
  left: 2rem; 
- bottom: 4rem;
+ top: 4rem;
  width: 5%;
  height: 100%;
+ z-index: 1;	
 }
 
 
