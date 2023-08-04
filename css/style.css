@@ -138,7 +138,7 @@
 #galli{
 	 position: relative;
 	 left: 15rem;
-	 bottom: 64.5rem;
+	 bottom: 64.6rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -146,8 +146,8 @@
 
 #stego{
 	position: relative;
-	 left: 14.4rem;
-	 bottom: 61.3rem;
+	 left: 14.3rem;
+	 bottom: 61.35rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -156,7 +156,7 @@
 #center{
 	position: relative;
 	 left: 6.8rem;
-	 bottom: 73rem;
+	 bottom: 74rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -164,7 +164,7 @@
 
 #gate{
 	 position: relative;
-	 left: 11rem;
+	 left: 11.1rem;
 	 bottom: 74.5rem;
 	 z-index: 1;
 	 width: 5%;
