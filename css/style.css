@@ -321,9 +321,6 @@
 
  .container2{
    display: flex;
-
-   overflow-x: hidden;
-
    }
 
   
@@ -342,8 +339,8 @@
  .icon {
     /* Estilos para o elemento com a classe "icon" no Moto G8 */
     position: relative;
-    left: 13rem;
-    top: 6rem;
+    left: 1rem;
+    top: 1rem;
     z-index: 1;
     width: 5%;
     height: auto;
@@ -510,13 +507,13 @@
 
 .Index{
 	background-color: #6ca5da;
-  position: relative;
+        position: relative;
 }
 
 .back{
 	position: relative;
 	top: 3%;
-	right: 20%;
+	left: 20%;
 }
 
 .back img{
@@ -527,7 +524,7 @@
 .subs{
 	position: relative;
 	top: 4%;
-	right: 30%;
+	leftt: 30%;
 }
 
 .subs img{
@@ -537,8 +534,8 @@
 
 .audioi{
 	position: relative;
-	left: 11rem;
-	bottom: 1rem;
+	left: 18rem;
+	bottom: 4rem;
 	z-index: 1;
 }
 
@@ -550,8 +547,8 @@
 .box_0 img{
 	width: 70%;
 	height: 100%;
-	padding-left: 3.5rem;
-	padding-top: 2rem;	
+	padding-left: 2rem;
+	padding-bottom: 4rem;	
 }
 
 .box{
@@ -564,8 +561,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 5rem;
-	left: 3rem;
+	bottom: 20rem;
+	left: 25rem;
 	text-align: justify;
 
 }
@@ -595,12 +592,13 @@
 .audio{
 	position: relative;
 	left: 3rem;
+	bottom: 5rem;
 }
 
 .arrow{
  position: relative;
- left: 4rem; 
- top: 2rem;
+ left: 2.5rem; 
+ top: 4rem;
  width: 5%;
  height: 100%;
 }
