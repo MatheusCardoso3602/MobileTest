@@ -147,7 +147,7 @@
 #stego{
 	position: relative;
 	 left: 14.4rem;
-	 bottom: 61.5rem;
+	 bottom: 61.7rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -155,8 +155,8 @@
 
 #center{
 	position: relative;
-	 left: 22rem;
-	 bottom: 55rem;
+	 left: 7.2rem;
+	 bottom: 76rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
@@ -164,8 +164,8 @@
 
 #gate{
 	 position: relative;
-	 left: 22rem;
-	 bottom: 55rem;
+	 left: 11rem;
+	 bottom: 76rem;
 	 z-index: 1;
 	 width: 5%;
 	 height: auto;
