@@ -524,7 +524,7 @@
 .subs{
 	position: relative;
 	top: 4%;
-	left: 32rem;
+	left: 12rem;
 }
 
 .subs img{
@@ -534,7 +534,7 @@
 
 .audioi{
 	position: relative;
-	left: 32rem;
+	left: 24rem;
 	bottom: 4rem;
 	z-index: 1;
 }
