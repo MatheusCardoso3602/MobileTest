@@ -561,8 +561,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 24.3rem;
-	left: 40rem;
+	bottom: 24rem;
+	left: 38rem;
 	text-align: justify;
 
 }
@@ -578,8 +578,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 24.3rem;
-	left: 40rem;
+	bottom: 24rem;
+	left: 38rem;
 	text-align: justify;
 
 }
@@ -591,14 +591,14 @@
 
 .audio{
 	position: relative;
-	left: 15rem;
-	bottom: 12rem;
+	left: 18rem;
+	bottom: 8rem;
 }
 
 .arrow{
  position: relative;
  left: 1.95rem; 
- top: 6rem;
+ top: 3rem;
  width: 5%;
  height: 100%;
  z-index: 1;	
