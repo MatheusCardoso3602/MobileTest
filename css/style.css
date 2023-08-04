@@ -342,7 +342,7 @@
     left: 1rem;
     top: 1rem;
     z-index: 1;
-    width: 5%;
+    width: 100%;
     height: auto;
   }
 
@@ -353,7 +353,7 @@
 	 left: 1rem;
 	 bottom: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 100%;
 	 height: auto;
 }
 
@@ -561,7 +561,7 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 20rem;
+	bottom: 19.9rem;
 	left: 38.3rem;
 	text-align: justify;
 
@@ -578,7 +578,7 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 20rem;
+	bottom: 19.9rem;
 	left: 38.3rem;
 	text-align: justify;
 
@@ -592,7 +592,7 @@
 .audio{
 	position: relative;
 	left: 17.8rem;
-	top: 1rem;
+	top: 1.5rem;
 }
 
 .arrow{
@@ -624,7 +624,7 @@
 #audiob{
 	position: relative;
 	left: 17.8rem;
-	bottom: 3rem;
+	top: 1.5rem;
 }
 
 
