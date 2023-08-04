@@ -320,7 +320,8 @@
   /* Coloque aqui os estilos que deseja aplicar no Moto G8 e outros dispositivos móveis com resolução 720x1560 */
 
  .container2{
-   display: flex;
+   display: flex;
+
    overflow-x: hidden;
 
    }
@@ -536,7 +537,7 @@
 
 .audioi{
 	position: relative;
-	left: 10rem;
+	left: 11rem;
 	bottom: 1rem;
 	z-index: 1;
 }
@@ -550,7 +551,7 @@
 	width: 70%;
 	height: 100%;
 	padding-left: 3.5rem;
-	padding-top: 7rem;	
+	padding-top: 2rem;	
 }
 
 .box{
@@ -563,8 +564,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	top: 1rem;
-	left: 1rem;
+	bottom: 5rem;
+	left: 3rem;
 	text-align: justify;
 
 }
@@ -580,8 +581,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	top: 1rem;
-	left: 1rem;
+	bottom: 5rem;
+	left: 3rem;
 	text-align: justify;
 
 }
@@ -593,13 +594,13 @@
 
 .audio{
 	position: relative;
-	left: 1rem;
+	left: 3rem;
 }
 
 .arrow{
  position: relative;
- left: 3rem; 
- top: 7rem;
+ left: 4rem; 
+ top: 2rem;
  width: 5%;
  height: 100%;
 }
