@@ -350,8 +350,8 @@
 
   #trex{
 	 position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 10rem;
+	 top: 10rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -359,8 +359,8 @@
 
 #bary{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 10rem;
+	 top: 10rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -368,8 +368,8 @@
 
 #raptor{
 	 position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 10rem;
+	 top: 10rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -377,127 +377,127 @@
 
 #dilo{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #compy{
 	 position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #herre{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #proce{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #ptera{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #trike{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #para{
 	 position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #brach{
 	 position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #galli{
 	 position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #stego{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #center{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #gate{
 	 position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #heli{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
 #dock{
 	position: relative;
-	 left: 1rem;
-	 bottom: 1rem;
+	 right: 1rem;
+	 top: 1rem;
 	 z-index: 1;
-	 width: 5%;
+	 width: 75%;
 	 height: auto;
 }
 
