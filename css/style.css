@@ -326,7 +326,7 @@
   
  /* Icons */
   .box_2 img {
-
+    z-index: 1;	  
     width: 3%;
     height: 3%;
   }
@@ -548,7 +548,7 @@
 	width: 70%;
 	height: 100%;
 	padding-left: 2rem;
-	padding-bottom: 5rem;	
+	padding-bottom: 4rem;	
 }
 
 .box{
@@ -561,8 +561,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 24rem;
-	left: 42rem;
+	bottom: 24.3rem;
+	left: 40rem;
 	text-align: justify;
 
 }
@@ -578,8 +578,8 @@
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 25rem;
-	left: 52rem;
+	bottom: 24.3rem;
+	left: 40rem;
 	text-align: justify;
 
 }
@@ -597,8 +597,8 @@
 
 .arrow{
  position: relative;
- left: 2rem; 
- top: 4rem;
+ left: 1.95rem; 
+ top: 6rem;
  width: 5%;
  height: 100%;
  z-index: 1;	
@@ -612,7 +612,7 @@
 	width: 95%;
 	height: 100%;
 	padding-top: 7rem;
-	padding-left: 5rem;
+	padding-left: 20rem;
 	
 }
 
@@ -623,7 +623,8 @@
 
 #audiob{
 	position: relative;
-	left: 5rem;
+	left: 15rem;
+	bottom: 12rem;
 }
 
 
