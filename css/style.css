@@ -627,206 +627,208 @@
 }
 
 
-
-
-
+	
 /* desktop 1920px*/
 @media screen and (width: 1920px){
 	.container2{
-   display: flex;
-   }
+		display: flex;
+		overflow-y: hidden;
+	}
 
-  
- /* Icons */
-  .box_2 img {
-    z-index: 1;	  
-    width: 25%;
-    height: 25%;
-  }
+/* Icons */
 
-	
-  .box_2 {
+.box_2{
+}
 
-  }
+.box_2 img{
+	width: 3%;
+	height: 3%;
 
- .icon {
-    /* Estilos para o elemento com a classe "icon" no Moto G8 */
-    position: relative;
-    left: 1rem;
-    top: 1rem;
-    z-index: 1;
-    width: 75%;
-    height: auto;
-  }
+}
 
-
-
-  #trex{
+.icon{
 	 position: relative;
-	 right: 10rem;
-	 top: 10rem;
+	 left: 13rem;
+	 top: 6rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
+	 height: auto;
+}
+
+#trex{
+	 position: relative;
+	 right: 41rem;
+	 top: 20.5rem;
+	 z-index: 1;
+	 width: 100%;
 	 height: auto;
 }
 
 #bary{
-	position: relative;
-	 right: 10rem;
-	 top: 10rem;
+	 position: relative;
+	 right: 43.2rem;
+	 top: 26.7rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #raptor{
 	 position: relative;
-	 right: 10rem;
-	 top: 10rem;
+	 right: 59rem;
+	 top: 22.5rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
-}
+} 
 
 #dilo{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 position: relative;
+	 right: 50rem;
+	 top: 24.5rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #compy{
 	 position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 right: 52.8rem;
+	 top: 13.8rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #herre{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 position: relative;
+	 right: 60.75rem;
+	 top: 12.8rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #proce{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 position: relative;
+	 right: 65rem;
+	 top: 32.6rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #ptera{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 position: relative;
+	 right: 64.5rem;
+	 top: 35.1rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #trike{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 position: relative;
+	 right: 64rem;
+	 top: 10.7rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #para{
 	 position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 right: 71.3rem;
+	 top: 22.4rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #brach{
 	 position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 right: 66rem;
+	 top: 33rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #galli{
 	 position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 right: 70.5rem;
+	 top: 37.2rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #stego{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 position: relative;
+	 right: 74rem;
+	 top: 44.8rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
 #center{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 position: relative;
+	 right: 87.5rem;
+	 top: 27.5rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
+	 height: auto;
+}
+
+#heli{
+	 position: relative;
+	 right: 85rem;
+	 top: 41.1rem;
+	 z-index: 1;
+	 width: 100%;
+	 height: auto;
+}
+
+#lodge{
+	 position: relative;
+	 right: 90.5rem;
+	 top: 35rem;
+	 z-index: 1;
+	 width: 100%;
+	 height: auto;
+}
+
+#dock{
+	 position: relative;
+	 right: 73.3rem;
+	 top: 35.2rem;
+	 z-index: 1;
+	 width: 100%;
 	 height: auto;
 }
 
 #gate{
 	 position: relative;
-	 right: 1rem;
-	 top: 1rem;
+	 right: 83.5rem;
+	 top: 28.5rem;
 	 z-index: 1;
-	 width: 75%;
+	 width: 100%;
 	 height: auto;
 }
 
-#heli{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
-	 z-index: 1;
-	 width: 75%;
-	 height: auto;
-}
-
-#dock{
-	position: relative;
-	 right: 1rem;
-	 top: 1rem;
-	 z-index: 1;
-	 width: 75%;
-	 height: auto;
-}
-
-
-  /* Restante dos estilos para dispositivos móveis com resolução 720x1560 */
-  /* map and subs */
+/* map and subs */
 
 .Index{
 	background-color: #6ca5da;
-        position: relative;
+	overflow: hidden;
 }
 
 .back{
 	position: relative;
-	top: 4rem;
-	left: 4rem;
+	top: 3rem;
+	left: 8rem;
+
 }
 
 .back img{
@@ -836,8 +838,8 @@
 
 .subs{
 	position: relative;
-	top: 3.2rem;
-	left: 5rem;
+	top: 7rem;
+	left: 15rem;
 }
 
 .subs img{
@@ -847,9 +849,8 @@
 
 .audioi{
 	position: relative;
-	left: 33rem;
-	bottom: 3rem;
-	z-index: 1;
+	left: 81.5rem;
+	bottom: 10rem;
 }
 
 /* Dinosaurs and buildings pages */
@@ -860,8 +861,8 @@
 .box_0 img{
 	width: 70%;
 	height: 100%;
-	padding-left: 2rem;
-	padding-top: 2.5rem;	
+	padding-left: 17rem;
+	padding-top: 5rem;	
 }
 
 .box{
@@ -869,30 +870,29 @@
 	border: 5px solid #000000;
 	border-radius: 10px;
 	color: #FFFFFF;
-	width: 20rem;
-	height: 14.5rem;
+	width: 45rem;
+	height: 6.5rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 19.9rem;
-	left: 38.3rem;
+	bottom: 3.6rem;
+	left: 17rem;
 	text-align: justify;
 
 }
-
 
 .box2{
 	background-color: #2244b3;
 	border: 5px solid #000000;
 	border-radius: 10px;
 	color: #FFFFFF;
-	width: 20rem;
-	height: 12rem;
+	width: 45rem;
+	height: 5.5rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	position: relative;
-	bottom: 19.5rem;
-	left: 38.3rem;
+	bottom: 3.6rem;
+	left: 17rem;
 	text-align: justify;
 
 }
@@ -904,19 +904,16 @@
 
 .audio{
 	position: relative;
-	left: 17.8rem;
-	top: 0.3rem;
+	left: 81.5rem;
 }
 
 .arrow{
  position: relative;
- left: 1.95rem; 
- top: 3rem;
+ left: 13rem; 
+ top: 6rem;
  width: 5%;
  height: 100%;
- z-index: 1;	
 }
-
 
 .box_1{
 }
@@ -924,8 +921,8 @@
 .box_1 img{
 	width: 95%;
 	height: 100%;
-	padding-top: 10rem;
-	padding-left: 25rem;
+	padding-top: 5rem;
+	padding-left: 3rem;
 	
 }
 
@@ -936,11 +933,12 @@
 
 #audiob{
 	position: relative;
-	left: 17.8rem;
-	top: 0.3rem;
+	left: 14.4%;
 }
 
 }
+
+
 /* desktop 1360px 1366px*/
 @media screen and (min-width: 1360px) and (max-width: 1366px){
 	.container2{
