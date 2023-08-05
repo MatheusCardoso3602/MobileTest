@@ -347,11 +347,10 @@
   }
 
 
-
-  #trex{
+ #trex{
 	 position: relative;
-	 right: 16.5rem;
-	 top: 12.5rem;
+	 right: 9.5rem;
+	 top: 10rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -359,8 +358,8 @@
 
 #bary{
 	position: relative;
-	 right: 17rem;
-	 top: 16rem;
+	 right: 10rem;
+	 top: 9rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -368,12 +367,13 @@
 
 #raptor{
 	 position: relative;
-	 right: 23rem;
-	 top: 13rem;
+	 right: 11rem;
+	 top: 10.2rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
 }
+
 
 #dilo{
 	position: relative;
