@@ -350,8 +350,8 @@
 
   #trex{
 	 position: relative;
-	 right: 10rem;
-	 top: 10rem;
+	 right: 15rem;
+	 top: 20rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -359,8 +359,8 @@
 
 #bary{
 	position: relative;
-	 right: 10rem;
-	 top: 10rem;
+	 right: 18rem;
+	 top: 25rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -368,8 +368,8 @@
 
 #raptor{
 	 position: relative;
-	 right: 10rem;
-	 top: 10rem;
+	 right: 25rem;
+	 top: 23rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
