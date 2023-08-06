@@ -314,7 +314,7 @@
 
 }
  
-@media screen only (width: 720px) only (height: 1600px) {
+@media screen and (width: 720px) and (height: 1600px) {
   /* Coloque aqui os estilos que deseja aplicar no Galaxy A12 e outros dispositivos móveis com resolução 720x1600 */
 
  .container2{
