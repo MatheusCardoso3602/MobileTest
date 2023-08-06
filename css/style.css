@@ -38,8 +38,8 @@
 
 #trex{ 
   position: relative; 
-  left: 17.5rem; 
-  bottom: 55.8rem; 
+  left: 18.5rem; 
+  bottom: 58.8rem; 
   z-index: 1; 
   width: 5%; 
   height: auto; 
@@ -47,8 +47,8 @@
  
 #bary{ 
  position: relative; 
-  left: 19rem; 
-  bottom: 55rem; 
+  left: 20rem; 
+  bottom: 58rem; 
   z-index: 1; 
   width: 5%; 
   height: auto; 
@@ -56,8 +56,8 @@
  
 #raptor{ 
   position: relative; 
-  left: 7.5rem; 
-  bottom: 56.3rem; 
+  left: 8.5rem; 
+  bottom: 59.3rem; 
   z-index: 1; 
   width: 5%; 
   height: auto; 
@@ -314,7 +314,7 @@
 
 }
  
-@media screen and (max-width: 720px) and (max-height: 1600px) {
+@media screen only (width: 720px) only (height: 1600px) {
   /* Coloque aqui os estilos que deseja aplicar no Galaxy A12 e outros dispositivos móveis com resolução 720x1600 */
 
  .container2{
