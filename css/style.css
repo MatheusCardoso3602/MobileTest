@@ -413,13 +413,13 @@
 
 #ptera{
 	position: relative;
-	 right: 26.2rem;
-	 top: 18.5rem;
+	 right: 26rem;
+	 top: 19rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
 }
-
+	
 #trike{
 	position: relative;
 	 right: 15rem;
