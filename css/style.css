@@ -734,8 +734,8 @@
 	
 #trike{
 	position: relative;
-	 right: 22.85rem;
-	 top: 8rem;
+	 right: 27rem;
+	 top: 6.5rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -743,7 +743,7 @@
 
 #para{
 	 position: relative;
-	 right: 24.3;
+	 right: 60;
 	 top: 13.3rem;
 	 z-index: 1;
 	 width: 75%;
@@ -752,8 +752,8 @@
 
 #brach{
 	 position: relative;
-	 right: 26rem;
-	 top: 18rem;
+	 right: 27.6rem;
+	 top: 18.4rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
