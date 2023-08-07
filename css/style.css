@@ -628,7 +628,7 @@
 
 
 
-@media screen and (max-width: 1560px) and (max-height: 720px) {
+@media screen and (max-width: 1560px) and  (min-width: 1559px) and  (max-height: 720px) and (min-height: 719px){
   /* Coloque aqui os estilos que deseja aplicar no Moto G8 e outros dispositivos móveis com resolução 720x1560 */
 
  .container2{
@@ -944,7 +944,7 @@
 
 
 /* desktop 1920px*/
-@media screen and (width: 1920px){
+@media screen and (max-width: 1920px) and (min-width: 1919px) and (max-height: 1080px) and (min-height: 1079px){
 	.container2{
 		display: flex;
 		overflow-y: hidden;
@@ -1255,7 +1255,7 @@
 
 
 /* desktop 1360px 1366px*/
-@media screen and (min-width: 1360px) and (max-width: 1366px){
+@media screen and (max-width: 1366px) and (min-width: 1360px) and (max-height: 768px) and (min-height: 767px){
 	.container2{
 		display: flex;
 		overflow-y: hidden;
