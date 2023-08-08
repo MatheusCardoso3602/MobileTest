@@ -272,6 +272,39 @@
 
 }
 
+.box3{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 14.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	top: 1rem;
+	left: 1rem;
+	text-align: justify;
+
+}
+
+
+.box4{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 12rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	top: 1rem;
+	left: 1rem;
+	text-align: justify;
+
+}
+
 #dino{
 	background-color: #6ca5da;
 	overflow: hidden;
@@ -569,6 +602,39 @@
 
 
 .box2{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 12rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	top: 1rem;
+	left: 1rem;
+	text-align: justify;
+
+}
+
+.box3{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 14.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	top: 1rem;
+	left: 1rem;
+	text-align: justify;
+
+}
+
+
+.box4{
 	background-color: #2244b3;
 	border: 5px solid #000000;
 	border-radius: 10px;
@@ -896,6 +962,39 @@
 
 }
 
+.box3{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 14.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	bottom: 19.9rem;
+	left: 38.3rem;
+	text-align: justify;
+
+}
+
+
+.box4{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 12rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	bottom: 19.5rem;
+	left: 38.3rem;
+	text-align: justify;
+
+}
+
 #dino{
 	background-color: #6ca5da;
 	overflow: hidden;
@@ -1192,6 +1291,39 @@
 
 
 .box2{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 12rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	bottom: 19.5rem;
+	left: 38.3rem;
+	text-align: justify;
+
+}
+
+.box3{
+	background-color: #2244b3;
+	border: 5px solid #000000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	width: 20rem;
+	height: 14.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	position: relative;
+	bottom: 19.9rem;
+	left: 38.3rem;
+	text-align: justify;
+
+}
+
+
+.box4{
 	background-color: #2244b3;
 	border: 5px solid #000000;
 	border-radius: 10px;
