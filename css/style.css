@@ -928,8 +928,8 @@
 
 #heli{
 	position: relative;
-	 right: 34rem;
-	 top: 22rem;
+	 right: 34.7rem;
+	 top: 22.5rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
@@ -937,8 +937,8 @@
 
 #dock{
 	position: relative;
-	 right: 30rem;
-	 top: 18.5rem;
+	 right: 29.5rem;
+	 top: 17.5rem;
 	 z-index: 1;
 	 width: 75%;
 	 height: auto;
